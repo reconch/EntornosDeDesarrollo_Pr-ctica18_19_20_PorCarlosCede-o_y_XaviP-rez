@@ -1,0 +1,12 @@
+# Archivos de compilación
+*.class
+
+# Logs
+*.log
+
+# Archivos comprimidos
+*.zip
+*.jar
+
+# Archivos de entorno
+*.env
