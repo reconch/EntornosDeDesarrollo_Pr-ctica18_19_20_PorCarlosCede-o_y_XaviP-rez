@@ -10,3 +10,13 @@
 
 # Archivos de entorno
 *.env
+
+
+# Se an añadido repositorio y fichereos relacionados con proyectos de intelliJ y vscode
+
+# IDEs
+.idea/
+.vscode/
+.iml/
+
+
