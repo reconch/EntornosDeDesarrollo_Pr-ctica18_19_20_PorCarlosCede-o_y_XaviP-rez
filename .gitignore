@@ -10,8 +10,3 @@
 
 # Archivos de entorno
 *.env
-
-# IDEs
-.idea/
-.vscode/
-*.iml
